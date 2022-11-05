@@ -123,7 +123,6 @@ main {
 }
 
 .parallax {
-    background-attachment: fixed;
     width: 100%;
     height: 700px;
     background-repeat: no-repeat;
